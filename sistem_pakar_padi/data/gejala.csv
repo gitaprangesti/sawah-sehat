@@ -1,0 +1,33 @@
+kode_gejala,nama_gejala,bagian
+G01,Daun berwarna kelabu dan pinggir berwarna coklat,Daun & Pelepah
+G02,Daun dan pelepah terdapat bercak coklat,Daun & Pelepah
+G03,Bulir hampa dan malai menjadi tegak,Malai & Bulir
+G04,Leher malai mengalami busuk dan patah,Malai & Bulir
+G05,Pinggir daun bergaris merah,Daun & Pelepah
+G06,Daun menguning dan mengering,Daun & Pelepah
+G07,Pertumbuhan tanaman terhambat,Kondisi Tanaman
+G08,Tanaman layu/mati,Kondisi Tanaman
+G09,Luka bercak hijau keabu-abuan berbentuk oval pada pelepah tepat di atas permukaan air,Daun & Pelepah
+G10,Batang padi rapuh dan mudah rebah,Batang & Anakan
+G11,Adanya lubang dan sarang,Tanda di Sawah
+G12,"Adanya jejak, kotoran, dan jalan serta bekas potongan bersudut",Tanda di Sawah
+G13,Potongan batang dan daun mengambang,Tanda di Sawah
+G14,Daun padi putih menggulung,Daun & Pelepah
+G15,Daun terpotong seperti digunting dan lapisan pertulangan daun muncul,Daun & Pelepah
+G16,Adanya larva/ngengat berwarna putih di daun,Tanda di Sawah
+G17,Daun mengambang di atas air,Tanda di Sawah
+G18,Bulir kecil/layu,Malai & Bulir
+G19,Ada bau menyengat,Tanda di Sawah
+G20,Pucuk batang padi kering kekuningan,Batang & Anakan
+G21,Anakan padi berkurang,Batang & Anakan
+G22,Anakan kerdil serta batang mudah lepas,Batang & Anakan
+G23,Terdapat ulat di dalam batang padi,Batang & Anakan
+G24,Pertumbuhan padi kerdil,Kondisi Tanaman
+G25,Jumlah anakan berkurang serta warna tanaman berubah menjadi coklat kemerahan/kuning,Batang & Anakan
+G26,Tanaman mati,Kondisi Tanaman
+G27,Terdapat jalur bekas lendir dan telur berwarna merah muda,Tanda di Sawah
+G28,Daun padi berlubang,Daun & Pelepah
+G29,Padi yang baru ditanam habis total,Kondisi Tanaman
+G30,Padi kering seperti terbakar,Kondisi Tanaman
+G31,Daun tua terpuntir dan daun muda menggulung,Daun & Pelepah
+G32,Batang padi berwarna coklat,Batang & Anakan
